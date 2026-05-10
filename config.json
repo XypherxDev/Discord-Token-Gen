@@ -1,0 +1,8 @@
+{
+    "NormalCooldownSeconds": 6,
+    "AdbCooldownSeconds": 0,
+    "Threads": 1,
+    "zeus_api_key": "",
+    "zeus_mail_type": "HOTMAIL_TRUSTED_GRAPH_API",
+    "LicenseKey": "mkc"
+}
